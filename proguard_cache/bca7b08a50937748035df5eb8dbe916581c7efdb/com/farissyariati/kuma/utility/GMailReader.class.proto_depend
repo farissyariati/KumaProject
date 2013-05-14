@@ -1,0 +1,19 @@
+classname: com/farissyariati/kuma/utility/GMailReader
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Ljava/io/PrintStream;
+visitFieldInsn_fieldtype*Ljava/lang/String;
+visitFieldInsn_fieldtype*Ljavax/mail/Flags$Flag;
+visitFieldInsn_fieldtype*Ljavax/mail/Folder;
+visitFieldInsn_fieldtype*Lorg/json/JSONArray;
+visitFieldInsn_fieldtype*[Ljavax/mail/Message;
+visitTypeInsn*187*com/farissyariati/kuma/messaging/Email
+visitTypeInsn*187*com/farissyariati/kuma/utility/FFileManager
+visitTypeInsn*187*com/farissyariati/kuma/utility/JSONParser
+visitTypeInsn*187*java/io/BufferedReader
+visitTypeInsn*187*java/io/InputStreamReader
+visitTypeInsn*187*java/lang/StringBuilder
+visitTypeInsn*187*javax/mail/Flags
+visitTypeInsn*187*javax/mail/search/FlagTerm
+visitTypeInsn*187*org/json/JSONArray
+visitTypeInsn*193*javax/mail/Multipart

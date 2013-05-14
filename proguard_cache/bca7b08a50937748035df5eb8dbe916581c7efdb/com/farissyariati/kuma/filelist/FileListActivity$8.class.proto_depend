@@ -1,0 +1,5 @@
+classname: com/farissyariati/kuma/filelist/FileListActivity$8
+visitAsClass_interface*android/content/DialogInterface$OnClickListener
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/filelist/FileListActivity;

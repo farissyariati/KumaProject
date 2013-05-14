@@ -1,0 +1,10 @@
+classname: com/farissyariati/kuma/tasklist/TaskListsParser
+visitAsClass_interface*com/farissyariati/kuma/utility/CollabtiveProfile
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Landroid/content/Context;
+visitFieldInsn_fieldtype*Ljava/util/HashMap;
+visitFieldInsn_fieldtype*Ljava/util/List;
+visitTypeInsn*187*com/farissyariati/kuma/tasklist/TaskLists
+visitTypeInsn*187*java/util/ArrayList
+visitTypeInsn*187*java/util/HashMap

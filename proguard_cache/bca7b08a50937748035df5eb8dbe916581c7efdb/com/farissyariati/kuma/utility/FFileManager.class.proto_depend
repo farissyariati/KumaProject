@@ -1,0 +1,18 @@
+classname: com/farissyariati/kuma/utility/FFileManager
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/utility/FPreferencesManager;
+visitFieldInsn_fieldtype*Ljava/io/File;
+visitFieldInsn_fieldtype*Ljava/io/PrintStream;
+visitTypeInsn*187*com/farissyariati/kuma/utility/FPreferencesManager
+visitTypeInsn*187*java/io/BufferedReader
+visitTypeInsn*187*java/io/File
+visitTypeInsn*187*java/io/FileReader
+visitTypeInsn*187*java/io/FileWriter
+visitTypeInsn*187*java/io/InputStreamReader
+visitTypeInsn*187*java/lang/StringBuilder
+visitTypeInsn*187*java/util/ArrayList
+visitTypeInsn*187*org/apache/http/client/entity/UrlEncodedFormEntity
+visitTypeInsn*187*org/apache/http/client/methods/HttpPost
+visitTypeInsn*187*org/apache/http/impl/client/DefaultHttpClient
+visitTypeInsn*187*org/apache/http/message/BasicNameValuePair

@@ -1,0 +1,11 @@
+classname: com/farissyariati/kuma/filelist/FileListActivity$DownloadFile
+visitAsClass_signature*Landroid/os/AsyncTask<Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;>;
+visitAsClass_superName*android/os/AsyncTask
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/filelist/FileListActivity;
+visitTypeInsn*187*java/io/BufferedInputStream
+visitTypeInsn*187*java/io/FileOutputStream
+visitTypeInsn*187*java/lang/StringBuilder
+visitTypeInsn*187*java/net/URL
+visitTypeInsn*189*java/lang/String
+visitTypeInsn*192*[Ljava/lang/String;
+visitTypeInsn*192*java/lang/String

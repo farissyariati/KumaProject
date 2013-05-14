@@ -1,0 +1,8 @@
+classname: com/farissyariati/kuma/task/Tasks
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*I
+visitFieldInsn_fieldtype*J
+visitFieldInsn_fieldtype*Ljava/lang/String;
+visitTypeInsn*187*com/farissyariati/kuma/utility/FTimeUtility
+visitTypeInsn*187*java/lang/StringBuilder

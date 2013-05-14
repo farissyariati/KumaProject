@@ -1,0 +1,5 @@
+classname: com/farissyariati/kuma/utility/MyJSSEProvider$1
+visitAsClass_interface*java/security/PrivilegedAction
+visitAsClass_signature*Ljava/lang/Object;Ljava/security/PrivilegedAction<Ljava/lang/Void;>;
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/utility/MyJSSEProvider;

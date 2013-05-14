@@ -1,0 +1,9 @@
+classname: com/farissyariati/kuma/utility/GMailSender$ByteArrayDataSource
+visitAsClass_interface*javax/activation/DataSource
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/utility/GMailSender;
+visitFieldInsn_fieldtype*Ljava/lang/String;
+visitFieldInsn_fieldtype*[B
+visitTypeInsn*187*java/io/ByteArrayInputStream
+visitTypeInsn*187*java/io/IOException

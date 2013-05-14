@@ -1,0 +1,18 @@
+classname: com/farissyariati/kuma/select/users/SelectUsersArrayAdapter
+visitAsClass_signature*Landroid/widget/ArrayAdapter<Lcom/farissyariati/kuma/select/users/SelectUsers;>;
+visitAsClass_superName*android/widget/ArrayAdapter
+visitFieldInsn_fieldtype*I
+visitFieldInsn_fieldtype*Landroid/content/Context;
+visitFieldInsn_fieldtype*Landroid/widget/CheckBox;
+visitFieldInsn_fieldtype*Landroid/widget/TextView;
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/utility/FPreferencesManager;
+visitFieldInsn_fieldtype*Ljava/lang/String;
+visitFieldInsn_fieldtype*Ljava/util/List;
+visitFieldInsn_fieldtype*[I
+visitTypeInsn*187*com/farissyariati/kuma/select/users/SelectUsersArrayAdapter$1
+visitTypeInsn*187*com/farissyariati/kuma/utility/FPreferencesManager
+visitTypeInsn*187*java/lang/StringBuilder
+visitTypeInsn*187*java/util/ArrayList
+visitTypeInsn*192*android/view/LayoutInflater
+visitTypeInsn*192*android/widget/TextView
+visitTypeInsn*192*com/farissyariati/kuma/select/users/SelectUsers

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/add_project_gradient_bg"
+    android:orientation="vertical"
+    android:padding="20dip" >
+
+    <TextView
+        android:id="@+id/tv_add_tasklist_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dip"
+        android:text="@string/tv_add_tasklist_name"
+        android:textSize="15dip" />
+
+    <EditText
+        android:id="@+id/et_add_tasklist_name"
+        android:layout_width="fill_parent"
+        android:layout_height="50dip"
+        android:background="@drawable/background_edit_text"
+        android:inputType="text"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip" />
+
+    <TextView
+        android:id="@+id/tv_add_tasklist_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dip"
+        android:layout_marginTop="30dip"
+        android:text="@string/tv_add_tasklist_description"
+        android:textSize="15dip" />
+
+    <EditText
+        android:id="@+id/et_add_tasklist_description"
+        android:layout_width="fill_parent"
+        android:layout_height="150dip"
+        android:background="@drawable/background_edit_text"
+        android:gravity="top|left"
+        android:inputType="textMultiLine"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip"
+        android:paddingTop="10dip"
+        android:lines="5" />
+
+    <TextView
+        android:id="@+id/tv_add_tasklist_associated_milestone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dip"
+        android:layout_marginTop="30dip"
+        android:text="@string/tv_add_tasklist_associated_milestone"
+        android:textSize="15dip" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dip"
+        android:background="@drawable/background_edit_text"
+        android:paddingBottom="8dip"
+        android:paddingLeft="5dip" >
+
+        <Spinner
+            android:id="@+id/sp_tasklist_milestone"
+            android:layout_width="fill_parent"
+            android:layout_height="50dip"
+            android:layout_marginBottom="10dip"
+            android:layout_marginRight="5dip"
+            android:layout_marginTop="5dip"
+            android:padding="5dip" />
+    </RelativeLayout>
+
+</LinearLayout>

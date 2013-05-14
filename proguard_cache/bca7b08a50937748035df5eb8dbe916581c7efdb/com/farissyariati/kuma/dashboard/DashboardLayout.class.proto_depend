@@ -1,0 +1,4 @@
+classname: com/farissyariati/kuma/dashboard/DashboardLayout
+visitAsClass_signature*
+visitAsClass_superName*android/view/ViewGroup
+visitFieldInsn_fieldtype*I

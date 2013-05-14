@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/done_add_milestone_menu"
+        android:icon="@drawable/done"
+        android:showAsAction="always"
+        android:title="@string/done_editting"/>
+    <item
+        android:id="@+id/clear_add_milestone_menu"
+        android:title="@string/clear_editting"
+        android:showAsAction="always"
+        android:icon="@drawable/clear">
+    </item>
+
+</menu>

@@ -1,0 +1,123 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.farissyariati.kuma"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="15" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.SEND_SMS"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+        android:icon="@drawable/icon_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/login_string"
+            android:windowSoftInputMode="stateHidden" />
+        
+         <activity
+            android:name=".timetracker.TimeTrackerActivity"
+            android:label="@string/time_tracker"/>
+        <activity
+            android:name=".projects.ProjectListActivity"
+            android:label="@string/project_list">
+        </activity>
+        <activity
+            android:name="com.farissyariati.kuma.projects.AddProject"
+            android:label="@string/label_add_project"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.farissyariati.kuma.projects.EditProject"
+            android:label="@string/label_edit_project"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.farissyariati.kuma.select.users.SelectUsersListActivity"
+            android:label="@string/label_select_users" />
+        <activity
+            android:name=".dashboard.DashboardActivity"
+            android:label="@string/label_dashboard" />
+        <activity
+            android:name="com.farissyariati.kuma.milestones.MilestonesListActivity"
+            android:label="@string/milestones_list" />
+        <activity
+            android:name="com.farissyariati.kuma.milestones.AddMilestone"
+            android:label="@string/label_add_milestone"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.farissyariati.kuma.milestones.EditMilestone"
+            android:label="@string/label_edit_milestone"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.farissyariati.kuma.tasklist.TasklistListActivity"
+            android:label="@string/tasklist_list" />
+        <activity
+            android:name="com.farissyariati.kuma.tasklist.AddTaskList"
+            android:label="@string/label_add_tasklist"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.farissyariati.kuma.tasklist.EditTasklist"
+            android:label="@string/label_edit_tasklist"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.farissyariati.kuma.task.TaskListActivity"
+            android:label="@string/task_list" />
+        <activity
+            android:name="com.farissyariati.kuma.task.AddTask"
+            android:label="@string/label_add_task"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.farissyariati.kuma.task.EditTask"
+            android:label="@string/label_edit_task"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.farissyariati.kuma.filelist.FileListActivity"
+            android:label="@string/file_list" />
+        <activity
+            android:name="com.farissyariati.kuma.filelist.FilePickerActivity"
+            android:label="@string/file_list" />
+        <activity
+            android:name="com.farissyariati.kuma.filelist.UploadFileActivity"
+            android:label="@string/file_list" />
+        <activity
+            android:name=".ApplicationPreferencesActivity"
+            android:label="@string/setting_label" />
+		<activity
+		    android:name=".NotificationReceiverActivity"
+		    android:label="@string/app_name"/>
+		
+		<activity
+		    android:name=".messaging.AddMessageActivity"
+		    android:label="@string/tv_label_create_message"
+		    android:windowSoftInputMode="stateHidden"/>
+		<activity
+		    android:name=".messaging.EmailFetcherActivity"
+		    android:label="@string/tv_label_recent_message"
+		    android:windowSoftInputMode="stateHidden"/>
+        <service
+            android:name=".utility.NotificationService"
+            android:enabled="true" />
+        <service
+            android:name=".utility.SMSService"
+            android:enabled="true" />
+        <service
+            android:name=".utility.EmailService"
+            android:enabled="true" />        
+    </application>
+
+</manifest>

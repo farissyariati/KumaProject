@@ -1,0 +1,4 @@
+classname: com/farissyariati/kuma/tasklist/AddTaskList$1
+visitAsClass_signature*
+visitAsClass_superName*android/os/Handler
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/tasklist/AddTaskList;

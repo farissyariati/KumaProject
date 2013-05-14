@@ -1,0 +1,14 @@
+classname: com/farissyariati/kuma/utility/CollabtiveManager
+visitAsClass_interface*com/farissyariati/kuma/utility/CollabtiveProfile
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/utility/JSONParser;
+visitFieldInsn_fieldtype*Ljava/io/PrintStream;
+visitFieldInsn_fieldtype*Ljava/lang/String;
+visitFieldInsn_fieldtype*Lorg/json/JSONObject;
+visitFieldInsn_fieldtype*Z
+visitTypeInsn*187*com/farissyariati/kuma/utility/FPreferencesManager
+visitTypeInsn*187*com/farissyariati/kuma/utility/JSONParser
+visitTypeInsn*187*java/lang/StringBuilder
+visitTypeInsn*187*java/util/ArrayList
+visitTypeInsn*187*org/apache/http/message/BasicNameValuePair

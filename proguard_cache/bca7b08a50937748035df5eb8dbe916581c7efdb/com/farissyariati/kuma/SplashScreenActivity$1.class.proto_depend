@@ -1,0 +1,6 @@
+classname: com/farissyariati/kuma/SplashScreenActivity$1
+visitAsClass_interface*java/lang/Runnable
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/SplashScreenActivity;
+visitTypeInsn*187*android/content/Intent

@@ -1,0 +1,6 @@
+classname: com/farissyariati/kuma/DebugActivity$3
+visitAsClass_interface*java/lang/Runnable
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Landroid/os/Handler;
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/DebugActivity;

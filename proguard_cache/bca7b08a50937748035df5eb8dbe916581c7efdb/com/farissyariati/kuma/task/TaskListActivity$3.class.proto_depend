@@ -1,0 +1,7 @@
+classname: com/farissyariati/kuma/task/TaskListActivity$3
+visitAsClass_interface*android/widget/AdapterView$OnItemClickListener
+visitAsClass_signature*Ljava/lang/Object;Landroid/widget/AdapterView$OnItemClickListener;
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/task/TaskListActivity;
+visitTypeInsn*187*com/farissyariati/kuma/utility/FTimeUtility
+visitTypeInsn*187*java/lang/StringBuilder

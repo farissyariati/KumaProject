@@ -1,0 +1,5 @@
+classname: com/farissyariati/kuma/task/AddTask$5
+visitAsClass_interface*android/view/View$OnClickListener
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/task/AddTask;

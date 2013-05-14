@@ -1,0 +1,7 @@
+classname: com/farissyariati/kuma/ApplicationPreferencesActivity
+visitAsClass_signature*
+visitAsClass_superName*android/preference/PreferenceActivity
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/utility/FPreferencesManager;
+visitFieldInsn_fieldtype*Ljava/io/PrintStream;
+visitTypeInsn*187*android/content/Intent
+visitTypeInsn*187*com/farissyariati/kuma/utility/FPreferencesManager

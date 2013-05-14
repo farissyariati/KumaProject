@@ -1,0 +1,5 @@
+classname: com/farissyariati/kuma/messaging/AddMessageActivity$2
+visitAsClass_interface*android/view/MenuItem$OnMenuItemClickListener
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/messaging/AddMessageActivity;

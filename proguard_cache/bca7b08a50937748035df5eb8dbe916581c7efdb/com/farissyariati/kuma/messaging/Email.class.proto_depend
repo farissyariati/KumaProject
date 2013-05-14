@@ -1,0 +1,5 @@
+classname: com/farissyariati/kuma/messaging/Email
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Ljava/lang/String;
+visitTypeInsn*187*org/json/JSONObject

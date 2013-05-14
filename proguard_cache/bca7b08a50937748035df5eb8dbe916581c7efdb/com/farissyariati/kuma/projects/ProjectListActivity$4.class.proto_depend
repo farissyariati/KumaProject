@@ -1,0 +1,9 @@
+classname: com/farissyariati/kuma/projects/ProjectListActivity$4
+visitAsClass_interface*android/widget/AdapterView$OnItemClickListener
+visitAsClass_signature*Ljava/lang/Object;Landroid/widget/AdapterView$OnItemClickListener;
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*I
+visitFieldInsn_fieldtype*J
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/projects/ProjectListActivity;
+visitTypeInsn*187*com/farissyariati/kuma/utility/FPreferencesManager
+visitTypeInsn*192*com/farissyariati/kuma/projects/Projects

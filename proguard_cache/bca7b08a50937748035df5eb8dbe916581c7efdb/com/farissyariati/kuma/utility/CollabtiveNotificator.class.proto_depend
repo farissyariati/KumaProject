@@ -1,0 +1,22 @@
+classname: com/farissyariati/kuma/utility/CollabtiveNotificator
+visitAsClass_interface*com/farissyariati/kuma/utility/CollabtiveProfile
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Landroid/app/NotificationManager;
+visitFieldInsn_fieldtype*Landroid/content/Context;
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/utility/FPreferencesManager;
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/utility/JSONParser;
+visitFieldInsn_fieldtype*Ljava/io/PrintStream;
+visitFieldInsn_fieldtype*Ljava/lang/String;
+visitFieldInsn_fieldtype*Lorg/json/JSONObject;
+visitTypeInsn*187*android/app/AlertDialog$Builder
+visitTypeInsn*187*android/app/Notification
+visitTypeInsn*187*android/content/Intent
+visitTypeInsn*187*com/farissyariati/kuma/utility/CollabtiveNotificator$1
+visitTypeInsn*187*com/farissyariati/kuma/utility/FPreferencesManager
+visitTypeInsn*187*com/farissyariati/kuma/utility/JSONParser
+visitTypeInsn*187*java/lang/StringBuilder
+visitTypeInsn*187*java/util/ArrayList
+visitTypeInsn*187*org/apache/http/message/BasicNameValuePair
+visitTypeInsn*192*android/app/NotificationManager
+visitTypeInsn*192*android/os/Vibrator

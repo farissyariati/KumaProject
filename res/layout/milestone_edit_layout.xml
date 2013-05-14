@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/add_project_gradient_bg"
+    android:orientation="vertical"
+    android:padding="20dip" >
+
+    <TextView
+        android:id="@+id/tv_edit_milestone_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dip"
+        android:text="@string/tv_add_milestones_name"
+        android:textSize="15dip" />
+
+    <EditText
+        android:id="@+id/et_edit_milestone_name"
+        android:layout_width="fill_parent"
+        android:layout_height="50dip"
+        android:background="@drawable/background_edit_text"
+        android:inputType="text"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip" />
+
+    <TextView
+        android:id="@+id/tv_edit_milestone_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dip"
+        android:layout_marginTop="30dip"
+        android:text="@string/tv_add_milestones_description"
+        android:textSize="15dip" />
+
+    <EditText
+        android:id="@+id/et_edit_milestone_description"
+        android:layout_width="fill_parent"
+        android:layout_height="150dip"
+        android:background="@drawable/background_edit_text"
+        android:gravity="top|left"
+        android:lines="5"
+        android:inputType="textMultiLine"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip"
+        android:paddingTop="10dip" />
+
+    <CheckBox
+        android:id="@+id/cb_end_milestone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cb_edit_milestone_finish"
+        android:layout_marginTop="5dip" />
+
+    <RelativeLayout
+        android:id="@+id/rl_edit_milestone_end"
+        android:layout_width="250dip"
+        android:layout_height="50dip"
+        android:layout_marginTop="20dip"
+        android:background="@drawable/add_button_selector" >
+
+        <ImageView
+            android:id="@+id/iv_clock_sketch2"
+            android:layout_width="30dip"
+            android:layout_height="30dip"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="20dip"
+            android:layout_marginTop="10dip"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/clock_sketch" />
+
+        <ImageView
+            android:id="@+id/iv_arrow2"
+            android:layout_width="25dip"
+            android:layout_height="25dip"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="10dip"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/arrow" />
+
+        <TextView
+            android:id="@+id/tv_edit_milestone_end"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dip"
+            android:layout_toRightOf="@+id/iv_clock_sketch2"
+            android:text="@string/tv_add_milestones_end"
+            android:textSize="18dip" />
+    </RelativeLayout>
+
+ 
+
+</LinearLayout>

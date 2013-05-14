@@ -1,0 +1,6 @@
+classname: com/farissyariati/kuma/filelist/UploadFileActivity$1
+visitAsClass_interface*android/view/View$OnClickListener
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/filelist/UploadFileActivity;
+visitTypeInsn*187*android/content/Intent

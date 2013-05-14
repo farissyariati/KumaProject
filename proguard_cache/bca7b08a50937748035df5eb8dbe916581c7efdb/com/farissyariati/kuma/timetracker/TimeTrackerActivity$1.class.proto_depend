@@ -1,0 +1,7 @@
+classname: com/farissyariati/kuma/timetracker/TimeTrackerActivity$1
+visitAsClass_signature*
+visitAsClass_superName*android/os/Handler
+visitFieldInsn_fieldtype*I
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/timetracker/TimeTrackerActivity;
+visitFieldInsn_fieldtype*Ljava/io/PrintStream;
+visitTypeInsn*187*java/lang/StringBuilder

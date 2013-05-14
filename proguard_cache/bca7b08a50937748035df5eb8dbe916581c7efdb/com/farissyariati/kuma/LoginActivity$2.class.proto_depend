@@ -1,0 +1,6 @@
+classname: com/farissyariati/kuma/LoginActivity$2
+visitAsClass_interface*android/view/View$OnClickListener
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/LoginActivity;
+visitTypeInsn*187*com/farissyariati/kuma/utility/FPreferencesManager

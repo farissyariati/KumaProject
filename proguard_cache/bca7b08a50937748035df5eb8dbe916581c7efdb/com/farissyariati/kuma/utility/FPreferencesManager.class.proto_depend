@@ -1,0 +1,7 @@
+classname: com/farissyariati/kuma/utility/FPreferencesManager
+visitAsClass_interface*com/farissyariati/kuma/utility/CollabtiveProfile
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Landroid/content/Context;
+visitFieldInsn_fieldtype*Landroid/content/SharedPreferences$Editor;
+visitFieldInsn_fieldtype*Landroid/content/SharedPreferences;

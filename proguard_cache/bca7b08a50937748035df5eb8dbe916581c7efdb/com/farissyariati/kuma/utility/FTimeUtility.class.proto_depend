@@ -1,0 +1,7 @@
+classname: com/farissyariati/kuma/utility/FTimeUtility
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*J
+visitFieldInsn_fieldtype*Ljava/util/Calendar;
+visitTypeInsn*187*java/text/SimpleDateFormat
+visitTypeInsn*192*java/util/Calendar

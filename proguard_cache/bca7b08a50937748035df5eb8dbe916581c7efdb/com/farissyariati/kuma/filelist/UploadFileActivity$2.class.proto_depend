@@ -1,0 +1,9 @@
+classname: com/farissyariati/kuma/filelist/UploadFileActivity$2
+visitAsClass_interface*android/view/MenuItem$OnMenuItemClickListener
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Landroid/widget/TextView;
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/filelist/UploadFileActivity;
+visitTypeInsn*187*com/farissyariati/kuma/utility/FUploader
+visitTypeInsn*187*java/lang/StringBuilder
+visitTypeInsn*189*java/lang/Object

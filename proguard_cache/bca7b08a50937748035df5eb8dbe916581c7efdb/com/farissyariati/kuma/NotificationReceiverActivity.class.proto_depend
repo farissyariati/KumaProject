@@ -1,0 +1,17 @@
+classname: com/farissyariati/kuma/NotificationReceiverActivity
+visitAsClass_signature*
+visitAsClass_superName*android/app/Activity
+visitFieldInsn_fieldtype*I
+visitFieldInsn_fieldtype*Landroid/app/ProgressDialog;
+visitFieldInsn_fieldtype*Landroid/os/Handler;
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/utility/CollabtiveManager;
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/utility/FFileManager;
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/utility/FPreferencesManager;
+visitFieldInsn_fieldtype*Ljava/lang/Thread;
+visitTypeInsn*187*android/app/ProgressDialog
+visitTypeInsn*187*android/content/Intent
+visitTypeInsn*187*com/farissyariati/kuma/NotificationReceiverActivity$1
+visitTypeInsn*187*com/farissyariati/kuma/NotificationReceiverActivity$2
+visitTypeInsn*187*com/farissyariati/kuma/utility/FFileManager
+visitTypeInsn*187*com/farissyariati/kuma/utility/FPreferencesManager
+visitTypeInsn*187*java/lang/Thread

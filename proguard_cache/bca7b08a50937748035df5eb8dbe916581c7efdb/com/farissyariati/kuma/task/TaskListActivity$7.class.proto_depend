@@ -1,0 +1,6 @@
+classname: com/farissyariati/kuma/task/TaskListActivity$7
+visitAsClass_interface*android/content/DialogInterface$OnClickListener
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*I
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/task/TaskListActivity;

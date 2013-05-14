@@ -1,0 +1,8 @@
+classname: com/farissyariati/kuma/select/users/SelectUsersArrayAdapter$1
+visitAsClass_interface*android/view/View$OnClickListener
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*I
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/select/users/SelectUsers;
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/select/users/SelectUsersArrayAdapter;
+visitTypeInsn*192*android/widget/CheckBox

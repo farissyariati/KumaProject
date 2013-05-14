@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+	<PreferenceCategory
+        android:key="collabtive_web"
+        android:title="Active Collabtive Website" >
+        <EditTextPreference
+            android:defaultValue="http://"
+            android:dialogMessage="Enter your Collabtive Website"
+            android:dialogTitle="Collabtive Website"
+            android:inputType="text"
+            android:key="collabtive_website"
+            android:summary="Active Collabtive Website"
+            android:title="Collabtive Website" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="email_information"
+        android:title="Email Notification" >
+        <EditTextPreference
+            android:defaultValue="\@gmail.com"
+            android:dialogMessage="Enter your email address"
+            android:dialogTitle="User's Email"
+            android:inputType="textEmailAddress"
+            android:key="user_email"
+            android:summary="Default user's email address"
+            android:title="User's email" />
+        <EditTextPreference
+            android:defaultValue=""
+            android:dialogMessage="Enter your email password"
+            android:dialogTitle="User email password"
+            android:inputType="textPassword"
+            android:key="users_email_password"
+            android:summary="Password to authenticate email while sending"
+            android:title="User's Email Password" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="system_notification"
+        android:title="System Notification" >
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="enable_notification"
+            android:summary="Enabling Project Activity Notification"
+            android:title="Enable Project Notification" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

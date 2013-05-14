@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/add_project_gradient_bg"
+    android:orientation="vertical"
+    android:padding="20dip" >
+
+    <TextView
+        android:id="@+id/tv_upload_file_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dip"
+        android:text="@string/tv_upload_file_title"
+        android:textColor="#666666"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/ed_upload_file_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/background_edit_text"
+        android:gravity="left|top"
+        android:inputType="textMultiLine"
+        android:lines="1"
+        android:padding="5dip" />
+
+    <TextView
+        android:id="@+id/tv_upload_file_desc"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dip"
+        android:layout_marginTop="10dip"
+        android:text="@string/tv_upload_file_desc"
+        android:textColor="#666666"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/ed_upload_file_desc"
+        android:layout_width="fill_parent"
+        android:layout_height="100dip"
+        android:background="@drawable/background_edit_text"
+        android:gravity="left|top"
+        android:inputType="textMultiLine"
+        android:lines="3"
+        android:padding="5dip" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="20dip" >
+
+        <Button
+            android:id="@+id/start_file_picker_button"
+            android:layout_width="150dp"
+            android:layout_height="70dip"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/list_selector"
+            android:text="@string/tv_select_file" />
+
+        <TextView
+            android:id="@+id/tv_label_select_file"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dip"
+            android:layout_marginTop="5dip"
+            android:layout_toRightOf="@id/start_file_picker_button"
+            android:text="@string/tv_selected_file"
+            android:textColor="#666666"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/file_path_text_view"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_label_select_file"
+            android:layout_marginLeft="20dip"
+            android:layout_toRightOf="@id/start_file_picker_button"
+            android:text="@string/tv_no_file_selected"
+            android:textSize="18sp" />
+    </RelativeLayout>
+	
+    <TextView
+        android:id="@+id/tv_select_upload_path"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dip"
+        android:layout_marginTop="10dp"
+        android:text="@string/tv_select_upload_path"
+        android:textColor="#666666"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+    
+    <Spinner
+        android:id="@+id/spinner_target_path"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp" />
+
+    <TextView
+        android:id="@+id/tv_progree_upload"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dip"
+        android:layout_marginLeft="8dip"
+        android:layout_marginTop="10dip"
+        android:text="@string/tv_upload_status"
+        android:textColor="#0099ff" />
+
+</LinearLayout>

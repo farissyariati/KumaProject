@@ -1,0 +1,4 @@
+classname: com/farissyariati/kuma/utility/MyJSSEProvider
+visitAsClass_signature*
+visitAsClass_superName*java/security/Provider
+visitTypeInsn*187*com/farissyariati/kuma/utility/MyJSSEProvider$1

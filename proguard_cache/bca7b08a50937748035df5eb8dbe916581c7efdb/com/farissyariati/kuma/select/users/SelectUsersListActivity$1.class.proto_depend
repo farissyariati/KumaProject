@@ -1,0 +1,5 @@
+classname: com/farissyariati/kuma/select/users/SelectUsersListActivity$1
+visitAsClass_interface*android/widget/AdapterView$OnItemClickListener
+visitAsClass_signature*Ljava/lang/Object;Landroid/widget/AdapterView$OnItemClickListener;
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/select/users/SelectUsersListActivity;

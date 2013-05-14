@@ -1,0 +1,5 @@
+visitAnnotation*Lscala/reflect/ScalaSignature;*true
+visitAsClass_interface*scala/ScalaObject
+visitFieldInsn*178*scala/Predef$*MODULE$*Lscala/Predef$;
+visitFieldInsn_fieldtype*Lscala/Predef$;
+visitMethodInsn*182*scala/Predef$*println*(Ljava/lang/Object;)V

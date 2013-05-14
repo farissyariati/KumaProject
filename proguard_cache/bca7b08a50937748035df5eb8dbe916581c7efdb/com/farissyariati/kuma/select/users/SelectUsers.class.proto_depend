@@ -1,0 +1,5 @@
+classname: com/farissyariati/kuma/select/users/SelectUsers
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*I
+visitFieldInsn_fieldtype*Ljava/lang/String;

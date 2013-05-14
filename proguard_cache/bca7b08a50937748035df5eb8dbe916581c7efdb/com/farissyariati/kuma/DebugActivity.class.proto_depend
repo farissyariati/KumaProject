@@ -1,0 +1,13 @@
+classname: com/farissyariati/kuma/DebugActivity
+visitAsClass_signature*
+visitAsClass_superName*android/app/Activity
+visitFieldInsn_fieldtype*Landroid/os/Handler;
+visitFieldInsn_fieldtype*Landroid/widget/Button;
+visitFieldInsn_fieldtype*Landroid/widget/ImageView;
+visitFieldInsn_fieldtype*Ljava/lang/Thread;
+visitTypeInsn*187*com/farissyariati/kuma/DebugActivity$1
+visitTypeInsn*187*com/farissyariati/kuma/DebugActivity$2
+visitTypeInsn*187*com/farissyariati/kuma/DebugActivity$3
+visitTypeInsn*187*java/lang/Thread
+visitTypeInsn*192*android/widget/Button
+visitTypeInsn*192*android/widget/ImageView

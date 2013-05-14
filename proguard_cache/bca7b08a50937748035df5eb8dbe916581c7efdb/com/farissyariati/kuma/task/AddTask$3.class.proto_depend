@@ -1,0 +1,4 @@
+classname: com/farissyariati/kuma/task/AddTask$3
+visitAsClass_signature*
+visitAsClass_superName*android/os/Handler
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/task/AddTask;

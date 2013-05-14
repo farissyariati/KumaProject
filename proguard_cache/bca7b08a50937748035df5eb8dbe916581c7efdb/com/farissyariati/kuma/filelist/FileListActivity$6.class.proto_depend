@@ -1,0 +1,10 @@
+classname: com/farissyariati/kuma/filelist/FileListActivity$6
+visitAsClass_interface*android/widget/AdapterView$OnItemClickListener
+visitAsClass_signature*Ljava/lang/Object;Landroid/widget/AdapterView$OnItemClickListener;
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*I
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/filelist/FileListActivity;
+visitFieldInsn_fieldtype*Ljava/lang/String;
+visitTypeInsn*187*com/farissyariati/kuma/utility/FPreferencesManager
+visitTypeInsn*187*java/lang/StringBuilder
+visitTypeInsn*192*com/farissyariati/kuma/filelist/Files

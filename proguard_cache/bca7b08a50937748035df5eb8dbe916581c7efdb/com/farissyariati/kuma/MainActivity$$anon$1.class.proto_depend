@@ -1,0 +1,7 @@
+classname: com/farissyariati/kuma/MainActivity$$anon$1
+visitAsClass_interface*java/lang/Runnable
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/MainActivity;
+visitTypeInsn*187*android/content/Intent
+visitTypeInsn*187*java/lang/NullPointerException

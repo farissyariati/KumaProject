@@ -1,0 +1,15 @@
+classname: com/farissyariati/kuma/utility/JSONParser
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Ljava/io/InputStream;
+visitFieldInsn_fieldtype*Ljava/lang/String;
+visitFieldInsn_fieldtype*Lorg/json/JSONObject;
+visitTypeInsn*187*java/io/BufferedReader
+visitTypeInsn*187*java/io/InputStreamReader
+visitTypeInsn*187*java/lang/StringBuilder
+visitTypeInsn*187*org/apache/http/client/entity/UrlEncodedFormEntity
+visitTypeInsn*187*org/apache/http/client/methods/HttpGet
+visitTypeInsn*187*org/apache/http/client/methods/HttpPost
+visitTypeInsn*187*org/apache/http/impl/client/DefaultHttpClient
+visitTypeInsn*187*org/json/JSONArray
+visitTypeInsn*187*org/json/JSONObject

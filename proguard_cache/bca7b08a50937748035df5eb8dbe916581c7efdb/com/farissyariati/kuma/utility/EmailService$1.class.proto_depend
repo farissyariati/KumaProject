@@ -1,0 +1,7 @@
+classname: com/farissyariati/kuma/utility/EmailService$1
+visitAsClass_interface*java/lang/Runnable
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/utility/EmailService;
+visitFieldInsn_fieldtype*Ljava/lang/String;
+visitTypeInsn*187*com/farissyariati/kuma/utility/GMailSender

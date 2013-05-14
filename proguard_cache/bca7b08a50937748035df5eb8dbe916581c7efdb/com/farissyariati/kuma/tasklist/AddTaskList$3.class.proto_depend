@@ -1,0 +1,5 @@
+classname: com/farissyariati/kuma/tasklist/AddTaskList$3
+visitAsClass_interface*android/view/MenuItem$OnMenuItemClickListener
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/tasklist/AddTaskList;

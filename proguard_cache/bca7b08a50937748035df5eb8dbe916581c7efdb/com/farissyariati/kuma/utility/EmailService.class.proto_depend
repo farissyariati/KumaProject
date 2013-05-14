@@ -1,0 +1,8 @@
+classname: com/farissyariati/kuma/utility/EmailService
+visitAsClass_signature*
+visitAsClass_superName*android/app/Service
+visitFieldInsn_fieldtype*I
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/utility/FPreferencesManager;
+visitTypeInsn*187*com/farissyariati/kuma/utility/EmailService$1
+visitTypeInsn*187*com/farissyariati/kuma/utility/FPreferencesManager
+visitTypeInsn*187*java/lang/Thread

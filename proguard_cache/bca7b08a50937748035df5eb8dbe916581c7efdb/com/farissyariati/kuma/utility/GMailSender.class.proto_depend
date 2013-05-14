@@ -1,0 +1,15 @@
+classname: com/farissyariati/kuma/utility/GMailSender
+visitAsClass_signature*
+visitAsClass_superName*javax/mail/Authenticator
+visitFieldInsn_fieldtype*Ljava/io/PrintStream;
+visitFieldInsn_fieldtype*Ljava/lang/String;
+visitFieldInsn_fieldtype*Ljavax/mail/Message$RecipientType;
+visitFieldInsn_fieldtype*Ljavax/mail/Session;
+visitTypeInsn*187*com/farissyariati/kuma/utility/GMailSender$ByteArrayDataSource
+visitTypeInsn*187*com/farissyariati/kuma/utility/MyJSSEProvider
+visitTypeInsn*187*java/lang/StringBuilder
+visitTypeInsn*187*java/util/Properties
+visitTypeInsn*187*javax/activation/DataHandler
+visitTypeInsn*187*javax/mail/PasswordAuthentication
+visitTypeInsn*187*javax/mail/internet/InternetAddress
+visitTypeInsn*187*javax/mail/internet/MimeMessage

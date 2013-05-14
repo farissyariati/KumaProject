@@ -1,0 +1,19 @@
+classname: com/farissyariati/kuma/utility/FUploader
+visitAsClass_signature*Landroid/os/AsyncTask<Ljava/lang/Object;Ljava/lang/String;Ljava/lang/Object;>;
+visitAsClass_superName*android/os/AsyncTask
+visitFieldInsn_fieldtype*Landroid/app/Activity;
+visitFieldInsn_fieldtype*Landroid/content/Context;
+visitFieldInsn_fieldtype*Landroid/widget/TextView;
+visitFieldInsn_fieldtype*Ljava/io/FileInputStream;
+visitFieldInsn_fieldtype*Ljava/lang/String;
+visitFieldInsn_fieldtype*Ljava/net/URL;
+visitTypeInsn*187*android/content/Intent
+visitTypeInsn*187*com/farissyariati/kuma/utility/FPreferencesManager
+visitTypeInsn*187*java/io/DataOutputStream
+visitTypeInsn*187*java/io/FileInputStream
+visitTypeInsn*187*java/lang/StringBuffer
+visitTypeInsn*187*java/lang/StringBuilder
+visitTypeInsn*187*java/net/URL
+visitTypeInsn*189*java/lang/String
+visitTypeInsn*192*[Ljava/lang/String;
+visitTypeInsn*192*java/net/HttpURLConnection

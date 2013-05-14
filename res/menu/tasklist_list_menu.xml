@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_add_tasklist"
+        android:icon="@drawable/add_project"
+        android:title="@string/add_tasklist_menu"
+        android:showAsAction="always"/>
+
+</menu>

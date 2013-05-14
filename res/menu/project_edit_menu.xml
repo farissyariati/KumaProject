@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/done_edit"
+        android:showAsAction="always"
+        android:title="@string/done_editting"
+        android:icon="@drawable/done"/>
+    
+    <item
+        android:id="@+id/clear_edit"
+        android:showAsAction="always"
+        android:title="@string/clear_editting"
+        android:icon="@drawable/clear"/>
+
+</menu>

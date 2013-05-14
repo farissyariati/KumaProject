@@ -1,0 +1,8 @@
+classname: com/farissyariati/kuma/utility/NotificationService$2
+visitAsClass_interface*java/lang/Runnable
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/utility/NotificationService;
+visitFieldInsn_fieldtype*Ljava/io/PrintStream;
+visitTypeInsn*187*com/farissyariati/kuma/utility/GMailReader
+visitTypeInsn*187*java/lang/StringBuilder

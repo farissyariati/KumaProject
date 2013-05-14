@@ -1,0 +1,20 @@
+classname: com/farissyariati/kuma/messaging/EmailFetcherActivity
+visitAsClass_signature*
+visitAsClass_superName*android/app/Activity
+visitFieldInsn_fieldtype*Landroid/widget/AutoCompleteTextView;
+visitFieldInsn_fieldtype*Landroid/widget/Button;
+visitFieldInsn_fieldtype*Landroid/widget/RelativeLayout;
+visitFieldInsn_fieldtype*Landroid/widget/TextView;
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/utility/FFileManager;
+visitFieldInsn_fieldtype*Lorg/json/JSONArray;
+visitFieldInsn_fieldtype*[Ljava/lang/String;
+visitTypeInsn*187*android/widget/ArrayAdapter
+visitTypeInsn*187*com/farissyariati/kuma/messaging/EmailFetcherActivity$1
+visitTypeInsn*187*com/farissyariati/kuma/utility/FFileManager
+visitTypeInsn*187*java/lang/StringBuilder
+visitTypeInsn*187*org/json/JSONArray
+visitTypeInsn*189*java/lang/String
+visitTypeInsn*192*android/widget/AutoCompleteTextView
+visitTypeInsn*192*android/widget/Button
+visitTypeInsn*192*android/widget/RelativeLayout
+visitTypeInsn*192*android/widget/TextView

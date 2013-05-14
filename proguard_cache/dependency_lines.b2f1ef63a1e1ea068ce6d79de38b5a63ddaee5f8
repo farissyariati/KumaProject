@@ -1,0 +1,3 @@
+visitAnnotation*Lscala/reflect/ScalaSignature;*true
+visitAsClass_interface*scala/ScalaObject
+visitFieldInsn_fieldtype*Lscala/runtime/Null$;

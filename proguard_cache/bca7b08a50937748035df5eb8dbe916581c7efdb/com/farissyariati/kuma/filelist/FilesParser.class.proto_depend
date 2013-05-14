@@ -1,0 +1,10 @@
+classname: com/farissyariati/kuma/filelist/FilesParser
+visitAsClass_interface*com/farissyariati/kuma/utility/CollabtiveProfile
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Landroid/content/Context;
+visitFieldInsn_fieldtype*Ljava/util/HashMap;
+visitFieldInsn_fieldtype*Ljava/util/List;
+visitTypeInsn*187*com/farissyariati/kuma/filelist/Files
+visitTypeInsn*187*java/util/ArrayList
+visitTypeInsn*187*java/util/HashMap

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+    <RelativeLayout
+        android:id="@+id/rl_project_progress"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="top"
+        android:gravity="top"
+        android:orientation="horizontal"
+        android:layout_margin="10dp"
+        android:background="@drawable/background_edit_text" >
+	<ImageView
+	    android:id="@+id/iv_project_progress_animation"
+	    android:layout_width="270dp"
+	    android:layout_height="26dp"
+	    android:layout_marginTop="12dp"
+	    android:layout_marginLeft="5dp"
+	    android:contentDescription="@string/app_name"
+	    android:src="@drawable/percent_ten"/>
+
+	<TextView
+	    android:id="@+id/tv_project_progress"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentRight="true"
+	    android:layout_centerVertical="true"
+	    android:layout_marginRight="5dp"
+	    android:textSize="25dp"
+	    android:text="@string/tv_project_progress" />
+    
+    </RelativeLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_margin="10dp"
+        android:background="@drawable/background_edit_text"
+        android:layout_weight="0.84" >
+        <TextView
+            android:id="@+id/tv_project_detail"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dip"
+            android:text="@string/tv_project_time_tracker"
+            android:textSize="15dip" />
+    </ScrollView>
+
+
+
+</LinearLayout>

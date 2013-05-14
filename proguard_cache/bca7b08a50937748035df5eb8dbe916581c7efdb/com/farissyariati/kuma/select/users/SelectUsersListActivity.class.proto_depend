@@ -1,0 +1,15 @@
+classname: com/farissyariati/kuma/select/users/SelectUsersListActivity
+visitAsClass_signature*
+visitAsClass_superName*android/app/Activity
+visitFieldInsn_fieldtype*Landroid/widget/ListView;
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/utility/FPreferencesManager;
+visitFieldInsn_fieldtype*Ljava/util/List;
+visitFieldInsn_fieldtype*Lorg/json/JSONArray;
+visitTypeInsn*187*com/farissyariati/kuma/select/users/SelectUsersArrayAdapter
+visitTypeInsn*187*com/farissyariati/kuma/select/users/SelectUsersListActivity$1
+visitTypeInsn*187*com/farissyariati/kuma/select/users/SelectUsersListActivity$2
+visitTypeInsn*187*com/farissyariati/kuma/select/users/SelectUsersParser
+visitTypeInsn*187*com/farissyariati/kuma/utility/FFileManager
+visitTypeInsn*187*com/farissyariati/kuma/utility/FPreferencesManager
+visitTypeInsn*187*org/json/JSONArray
+visitTypeInsn*192*android/widget/ListView

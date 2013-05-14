@@ -1,0 +1,14 @@
+classname: com/farissyariati/kuma/utility/NotificationService
+visitAsClass_signature*
+visitAsClass_superName*android/app/Service
+visitFieldInsn_fieldtype*I
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/utility/CollabtiveNotificator;
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/utility/FPreferencesManager;
+visitFieldInsn_fieldtype*Ljava/lang/Thread;
+visitFieldInsn_fieldtype*Z
+visitTypeInsn*187*com/farissyariati/kuma/utility/CollabtiveNotificator
+visitTypeInsn*187*com/farissyariati/kuma/utility/FPreferencesManager
+visitTypeInsn*187*com/farissyariati/kuma/utility/NotificationService$1
+visitTypeInsn*187*com/farissyariati/kuma/utility/NotificationService$2
+visitTypeInsn*187*java/lang/Thread
+visitTypeInsn*192*android/net/ConnectivityManager

@@ -1,0 +1,5 @@
+classname: com/farissyariati/kuma/milestones/EditMilestone$6
+visitAsClass_interface*android/view/MenuItem$OnMenuItemClickListener
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/milestones/EditMilestone;

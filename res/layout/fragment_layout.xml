@@ -1,0 +1,45 @@
+<com.farissyariati.kuma.dashboard.DashboardLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    android:background="@drawable/list_selector" >
+
+    <!-- Newsfeed Button -->
+
+    <Button
+        android:id="@+id/btn_milestone"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_milestone"
+        android:text="@string/label_milestone" />
+
+    <Button
+        android:id="@+id/btn_tasklist"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_tasklist"
+        android:text="@string/label_task_list" />
+
+    <Button
+        android:id="@+id/btn_project_detail"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_project_detail"
+        android:text="@string/label_project_detail" />
+
+    <Button
+        android:id="@+id/btn_files"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_files"
+        android:text="@string/label_files" />
+
+    <Button
+        android:id="@+id/btn_messages"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_messages"
+        android:text="@string/label_messages" />
+
+    <Button
+        android:id="@+id/btn_exit"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_exit"
+        android:text="@string/label_about_kuma_project" />
+
+</com.farissyariati.kuma.dashboard.DashboardLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/list_selector"
+    android:padding="5dip"
+    android:orientation="horizontal" >
+
+       <ImageView
+           android:id="@+id/iv_milestone_status"
+           android:layout_width="40dip"
+           android:layout_height="20dip"
+           android:layout_alignParentLeft="true"
+           android:src="@drawable/paw"
+           android:layout_marginTop="10dip"
+           android:contentDescription="@string/app_name"/>
+       
+    <TextView
+        android:id="@+id/tv_milestone_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_milestone_name"
+        android:layout_toRightOf="@id/iv_milestone_status"
+        android:textColor="#040404"
+        android:typeface="sans" 
+        android:textSize="15dip"
+        android:padding="5dip"
+        android:textStyle="bold"/>
+    
+    <TextView
+        android:id="@+id/tv_milestone_duration"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:typeface="sans"
+        android:textColor="#000000"
+        android:padding="5dip"
+        android:textSize="10dip"
+        android:text="@string/tv_milestone_duration"
+        android:layout_below="@id/tv_milestone_name"
+        android:layout_toRightOf="@id/iv_milestone_status"/>
+
+ 
+
+</RelativeLayout>

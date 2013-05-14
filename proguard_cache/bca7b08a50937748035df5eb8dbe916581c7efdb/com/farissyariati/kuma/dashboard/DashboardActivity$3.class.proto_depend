@@ -1,0 +1,5 @@
+classname: com/farissyariati/kuma/dashboard/DashboardActivity$3
+visitAsClass_signature*
+visitAsClass_superName*android/os/Handler
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/dashboard/DashboardActivity;
+visitFieldInsn_fieldtype*Ljava/io/PrintStream;

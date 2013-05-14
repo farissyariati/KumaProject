@@ -1,0 +1,12 @@
+classname: com/farissyariati/kuma/select/users/SelectUsersParser
+visitAsClass_interface*com/farissyariati/kuma/utility/CollabtiveProfile
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Landroid/content/Context;
+visitFieldInsn_fieldtype*Ljava/io/PrintStream;
+visitFieldInsn_fieldtype*Ljava/util/HashMap;
+visitFieldInsn_fieldtype*Ljava/util/List;
+visitTypeInsn*187*com/farissyariati/kuma/select/users/SelectUsers
+visitTypeInsn*187*java/lang/StringBuilder
+visitTypeInsn*187*java/util/ArrayList
+visitTypeInsn*187*java/util/HashMap

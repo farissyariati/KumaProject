@@ -1,0 +1,9 @@
+classname: com/farissyariati/kuma/dashboard/DashboardActivity$8
+visitAsClass_interface*java/lang/Runnable
+visitAsClass_signature*
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*I
+visitFieldInsn_fieldtype*Landroid/os/Handler;
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/dashboard/DashboardActivity;
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/utility/CollabtiveManager;
+visitTypeInsn*187*com/farissyariati/kuma/utility/FFileManager

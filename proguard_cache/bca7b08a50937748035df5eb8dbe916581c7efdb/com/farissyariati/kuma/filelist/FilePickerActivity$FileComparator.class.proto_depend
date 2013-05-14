@@ -1,0 +1,6 @@
+classname: com/farissyariati/kuma/filelist/FilePickerActivity$FileComparator
+visitAsClass_interface*java/util/Comparator
+visitAsClass_signature*Ljava/lang/Object;Ljava/util/Comparator<Ljava/io/File;>;
+visitAsClass_superName*java/lang/Object
+visitFieldInsn_fieldtype*Lcom/farissyariati/kuma/filelist/FilePickerActivity;
+visitTypeInsn*192*java/io/File

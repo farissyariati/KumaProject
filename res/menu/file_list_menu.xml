@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_add_file"
+        android:icon="@drawable/add_project"
+        android:title="@string/add_tasklist_menu"
+        android:showAsAction="always"/>
+    <item
+        android:id="@+id/menu_add_folder"
+        android:icon="@drawable/new_folder"
+        android:title="@string/add_tasklist_menu"
+        android:showAsAction="always"/>
+
+</menu>
