@@ -10,6 +10,7 @@ import com.farissyariati.kuma.projects.ProjectListActivity;
 import android.content.Intent;
 
 class MainActivity extends Activity {
+  /*try using scala*/
   final var SPLASH_LOAD_MILIS = 3000;
   var splashThread: Thread = null;
   var fpm: FPreferencesManager = null;
